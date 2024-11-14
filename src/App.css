@@ -10,6 +10,7 @@
   color: white;
   padding-left: 48px;
   padding-right: 16px;
+  overflow: hidden;
 }
 .buttonSend{
   border-radius: 28px;
